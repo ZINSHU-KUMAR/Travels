@@ -44,7 +44,7 @@ The system is developed to ease the process of tour booking and travel managemen
   
   ## 🚀 Deployment
 
-**Deployment**: Vercel
+  **.Deployment**: Vercel
 
 ## 📽️ Tutorial Goals
 
