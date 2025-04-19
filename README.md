@@ -41,8 +41,8 @@ The system is developed to ease the process of tour booking and travel managemen
 ## 🛠️ Technology Stack (Optional)
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP / Node.js  
-- **Database**: MySQL  
+- **Backend**: no
+- **Database**:no
 
 ## 📽️ Tutorial Goals
 
@@ -53,8 +53,7 @@ The system is developed to ease the process of tour booking and travel managemen
 
 ---
 
-> ⚠️ This project is a part of a hands-on learning tutorial and is currently under development. Contributions and suggestions are welcome!
 
----
 
-Happy Coding! 🌍✈️  
+
+
