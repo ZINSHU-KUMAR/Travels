@@ -40,9 +40,11 @@ The system is developed to ease the process of tour booking and travel managemen
 
 ## 🛠️ Technology Stack (Optional)
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: no
-- **Database**:no
+- **Frontend**: HTML, CSS, JavaScript
+  
+  ## 🚀 Deployment
+
+**Deployment**: Vercel
 
 ## 📽️ Tutorial Goals
 
