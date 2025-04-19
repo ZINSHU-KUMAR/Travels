@@ -60,4 +60,13 @@ The system is developed to ease the process of tour booking and travel managemen
 🔗 [Travels Live Demo](http://127.0.0.1:5500/)
 
 
+![Screenshot 2025-04-19 131405](https://github.com/user-attachments/assets/a57cea21-34bd-4d87-95e0-274d932c3b6d)
 
+
+![Screenshot 2025-04-19 131435](https://github.com/user-attachments/assets/3f4b6fe9-13fd-48b3-be13-fe3def66ff2f)
+
+![Screenshot 2025-04-19 131531](https://github.com/user-attachments/assets/a0f7ae3d-15e8-420d-99f2-ee196b680a67)
+
+![Screenshot 2025-04-19 131605](https://github.com/user-attachments/assets/ba81646b-c58c-44ff-bc22-e3b62b8b21f3)
+
+![Screenshot 2025-04-19 131640](https://github.com/user-attachments/assets/4b1478ea-4c1a-4e92-93cf-2b7e4848070a)
